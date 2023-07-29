@@ -1,2 +1,2 @@
-# Tableau_Projects
+# Sales Insights
 Data analysis projects 
